@@ -1,2 +1,12 @@
 # Dépôt de démo généré par devops_culture_git/setup-conflit.sh
 devops_culture_git/conflit-demo/
+
+# Environnements virtuels Python
+venv/
+.venv/
+env/
+
+# Caches Python
+__pycache__/
+*.py[cod]
+*.egg-info/
